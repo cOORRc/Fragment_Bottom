@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="m">Movies</string>
+    <string name="g">GPX</string>
+    <string name="p">Profile</string>
+    <string name="STU">ผลการเรียน</string>
+    <string name="todo">TODO</string>
+</resources>
