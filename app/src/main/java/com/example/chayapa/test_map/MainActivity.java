@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //loading the default fragment
-        loadFragment(new MovieFragment());
+        loadFragment(new ProfileFragment());
 
         //getting bottom navigation view and attaching the listener
         BottomNavigationView navigation = (BottomNavigationView)findViewById(R.id.navigation);
